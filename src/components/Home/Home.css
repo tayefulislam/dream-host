@@ -45,3 +45,13 @@ p {
 
     width: 80%;
 }
+
+.reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 20px;
+}
+
+.review-title {
+    color: rgb(252, 100, 73);
+}

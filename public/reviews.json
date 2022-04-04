@@ -1,43 +1,43 @@
 [
     {
         "id": 1,
-        "name": "Faizul Kabir Rizan",
-        "review": "Great services at reasonable price. Loved your services. Best wishes from OfferAge for Dianahost.",
+        "name": "Faizul Kabir",
+        "review_detail": "Great services at reasonable price. Loved your services. Best wishes from OfferAge for Dianahost.",
         "ratings": 4,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/screen-13.42.2612.10.2017-150x150.png"
     },
     {
         "id": 2,
-        "name": "Najmul Islam Sujan",
-        "review": "Amazing support in time. Also the services I am using awesome. Highly recommend services for your web hosting.",
+        "name": "Najmul Islam",
+        "review_detail": "Amazing support in time. Also the services I am using awesome. Highly recommend services for your web hosting.",
         "ratings": 4,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/XsTheme-150x150.jpg"
     },
     {
         "id": 3,
         "name": "Ashish Halder",
-        "review": "I found it so useful and they fulfill my desire with complete it support.it’s no.1 solution company to me.",
+        "review_detail": "I found it so useful and they fulfill my desire with complete it support.it’s no.1 solution company to me.",
         "ratings": 4,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/Ashish-Halder-150x150.jpg"
     },
     {
         "id": 4,
         "name": "SA Rajib",
-        "review": "Really Awsome experience in Bulk Domain service. Top Class Bulk Domain provider in Bangladesh",
+        "review_detail": "Really Awsome experience in Bulk Domain service. Top Class Bulk Domain provider in Bangladesh",
         "ratings": 4.4,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/SA-Rajib-150x150.jpg"
     },
     {
         "id": 5,
-        "name": "Mostakim Sarkar",
-        "review": "Quality services and maintain very helpful cooperation. Thanks",
+        "name": "Mostakim",
+        "review_detail": "Quality services and maintain very helpful cooperation. Thanks",
         "ratings": 4.6,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/webbuilding-150x150.jpg"
     },
     {
         "id": 6,
-        "name": "Ar Susmita Biswas Sathi",
-        "review": "Good Service , quick and effective support.I order them time to time.",
+        "name": "Biswas Sathi",
+        "review_detail": "Good Service , quick and effective support.I order them time to time.",
         "ratings": 5,
         "picture": "https://www.dianahost.com/wp-content/uploads/2017/10/20953390_1803472566348148_1431709594545523057_n-150x150.jpg"
     }
