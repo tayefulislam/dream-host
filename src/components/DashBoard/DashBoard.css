@@ -2,3 +2,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.dashboard h1 {
+    font-size: 20px;
+}
+
+@media screen and (max-width:500px) {
+    .dashboard {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+}

@@ -13,7 +13,7 @@ const Review = ({ review }) => {
                     <h3>Ratings : {ratings}</h3>
                 </div>
             </div>
-            <p><i>"{review_detail}</i></p>
+            <p><i>"{review_detail}"</i></p>
         </div>
     );
 };

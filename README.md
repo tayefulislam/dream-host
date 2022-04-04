@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Project Name : Dream Host
+
+
+## [Live Website](https://dream-host.netlify.app/) : https://dream-host.netlify.app/
+
+- I create fake json data for reviews
+- I create custom hook to load data and use 2 different route.
+- I create dashboard route, using 4 different type Chart using same json data
+- I also fix page not found in  netlify  after page reload
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
