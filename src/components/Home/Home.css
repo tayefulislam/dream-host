@@ -27,6 +27,11 @@ p {
     padding: 10px;
 }
 
+
+.reviews-container {
+    margin-bottom: 20px;
+}
+
 .buy-btn {
     border: 0;
     padding: 20px 30px;
@@ -41,6 +46,23 @@ p {
     background-color: rgb(248, 106, 54);
 }
 
+.see-all-btn {
+
+    border: 0;
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: 600;
+    color: blanchedalmond;
+    background-color: rgb(19, 112, 235);
+    border-radius: 10px;
+
+    text-decoration: none;
+
+}
+
+
+
+
 .domain-container img {
 
     width: 80%;
@@ -54,4 +76,20 @@ p {
 
 .review-title {
     color: rgb(252, 100, 73);
+}
+
+@media screen and (max-width:500px) {
+
+    .home-container {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+
+    .reviews {
+        display: grid;
+        grid-template-columns: 1fr;
+
+    }
+
 }
