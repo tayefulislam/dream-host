@@ -1,10 +1,34 @@
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Header from './components/Header/Header';
+import Home from './components/Home/Home';
+import Reviews from './components/Reviews/Reviews';
+import DashBoard from './components/DashBoard/DashBoard';
+import Blogs from './components/Blogs/Blogs';
+import About from './components/About/About';
 
 function App() {
   return (
     <div className="App">
 
-      <img src="domain.jpg" alt="" />
+
+      <Header></Header>
+
+      <Routes>
+
+        <Route path='/' element={<Home></Home>}>Home</Route>
+        <Route path='/home' element={<Home></Home>}>Home</Route>
+        <Route path='/reviews' element={<Reviews></Reviews>}></Route>
+        <Route path='/dashboard' element={<DashBoard></DashBoard>}></Route>
+        <Route path='/blog' element={<Blogs></Blogs>}></Route>
+        <Route path='/about' element={<About></About>}></Route>
+
+
+      </Routes>
+
+
+
+
 
     </div>
   );
