@@ -7,6 +7,7 @@ import DashBoard from './components/DashBoard/DashBoard';
 import Blogs from './components/Blogs/Blogs';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -27,6 +28,8 @@ function App() {
 
 
       </Routes>
+
+      <Footer></Footer>
 
 
 

@@ -18,7 +18,7 @@ const DashBoard = () => {
 
             <div>
 
-                <h1>MONTH WISE SELL</h1>
+                <h1>Month Wise Sell</h1>
 
 
                 <LineChart width={600} height={400} data={data}>
