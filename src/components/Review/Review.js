@@ -3,9 +3,11 @@ import './Review.css'
 
 const Review = ({ review }) => {
 
-    const { name, picture, ratings, review_detail } = review
+    const { name, picture, ratings, review_detail } = review;
+
+
     return (
-        <div>
+        <div className='review-card'>
             <div className='rating-head'>
                 <img src={picture} alt="" />
                 <div className='ratings'>

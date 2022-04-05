@@ -5,23 +5,20 @@
 }
 
 
-h1 {
+.home-container h1 {
     font-size: 45px;
 }
 
-h2 {
+.home-container h2 {
     font-size: 35px;
 }
 
-p {
+.home-container p {
     font-size: 25px;
     font-weight: 600;
 }
 
-h1,
-p {
-    margin: 20px 0;
-}
+
 
 .title-container {
     padding: 10px;

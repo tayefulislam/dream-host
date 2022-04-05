@@ -10,7 +10,7 @@ h3 {
 }
 
 i {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .rating-head img {
@@ -21,4 +21,13 @@ i {
 
 .ratings {
     margin-left: 20px;
+}
+
+.review-card {
+    color: white;
+    background-color: hsl(240, 56%, 55%);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+
 }

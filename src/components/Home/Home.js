@@ -19,8 +19,8 @@ const Home = () => {
                 <div className="title-container">
 
                     <h1>Register Domain Name here!</h1>
-                    <h2>Engage customers / users with the best domain..</h2>
-                    <p>
+
+                    <p>Engage customers / users with the best domain.
                         Easy Setup With Instant Activation, DNS Management, No Hidden Cost</p>
 
                     <button className='buy-btn'>Buy Domain</button>
