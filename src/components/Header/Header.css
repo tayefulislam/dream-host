@@ -13,3 +13,13 @@
 .header a:hover {
     color: orangered;
 }
+
+
+@media screen and (max-width:500) {
+
+    .header a {
+        display: flex;
+
+    }
+
+}
